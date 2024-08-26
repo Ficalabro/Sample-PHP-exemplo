@@ -21,10 +21,8 @@ O projeto é uma página PHP simples que permite adicionar, visualizar e deletar
 
 - **SamplePage.php**: A página principal da aplicação. Contém um formulário para adicionar novos registros e uma tabela para exibir os registros existentes. Também lida com operações de adição e exclusão de registros.
 
-## Vídeo de demonstração AWS
+## Vídeo de demonstração na AWS
+
+Assista ao vídeo demonstrativo no link a seguir para visualizar o funcionamento completo da aplicação descrita:
 
 https://drive.google.com/file/d/17Xs7uyxaEzwvxGwLV1apOEK3Yo3oz05W/view?usp=sharing
-
----
-
-**Nota**: Este projeto é fornecido apenas para fins educacionais e de exemplo. Certifique-se de revisar e ajustar as práticas de segurança antes de usar este código em um ambiente de produção.
